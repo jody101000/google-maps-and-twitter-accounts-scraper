@@ -1,5 +1,5 @@
 # google-map-scraper
-A Google Map scraper (for 2nd hand toy stores in US, by state)
+A Google Maps scraper (for 2nd hand toy stores in US, by state)
 
 ## Requierd tool
 [Chrome Driver](https://chromedriver.chromium.org/)
