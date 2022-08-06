@@ -1,4 +1,4 @@
-# google-map-scraper
+# google-maps-scraper
 A Google Maps scraper (for 2nd hand toy stores in US, by state)
 
 ## Requierd tool
